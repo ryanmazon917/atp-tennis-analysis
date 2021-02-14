@@ -6,6 +6,8 @@ I've played tennis my whole life and have always enjoyed watching the pros. The 
 
 ## The Process (Summarized) :recycle:
 
+![data processing flowchart](images/atp-flowchart.png)
+
 ## Technologies Used :microscope:
 
 ## The Results :heavy_check_mark:
