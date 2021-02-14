@@ -10,8 +10,18 @@ I've played tennis my whole life and have always enjoyed watching the pros. The 
 
 ## Technologies Used :microscope:
 
+- Python Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+- Selenium Web Scraping, Data Processing, Data Analysis, Machine Learning, Visualization
+- Visualization Tools: Tableau
+
 ## The Results :heavy_check_mark:
+
+
 
 ## What I Learned :books:
 
+
+
 ## Future Implementations :rocket:
+
+
